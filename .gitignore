@@ -1,0 +1,15 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+
+#Juypter notebook
+.ipnyb_checkpoints
+
+#api Key
+api_keys.py
+
+#HW Rubric
+Python_API_grading_rubric.pdf
+
+#HW Instructions
+README 2.md
