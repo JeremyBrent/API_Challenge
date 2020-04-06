@@ -3,7 +3,7 @@
 __pycache__
 
 #Juypter notebook
-.ipnyb_checkpoints
+.ipynb_checkpoints
 
 #api Key
 api_keys.py
